@@ -1,0 +1,11 @@
+1-API site link:
+https://automationexercise.com/api_list
+
+2-Postman workspace link:
+https://app.getpostman.com/join-team?invite_code=c9ecc2ff8cfb8f7ed017efffe379da760388a339ab4fd97f409c29ae5fd2b938&target_code=f1132cd6e5965708ad1056d02fa4a8fe
+
+3-Jira workspace link:
+https://fathy74.atlassian.net/jira/software/projects/SCRUM/boards/1/backlog?atlOrigin=eyJpIjoiOGZhZjM3NTY5YzU5NDFkOGI3ZmFhNzVmMDcwNmVhMmEiLCJwIjoiaiJ9
+
+4-Github link:
+https://github.com/Nadaakhaledd-eng/-Automation-Exercise
