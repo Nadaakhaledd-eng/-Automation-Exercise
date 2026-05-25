@@ -16,10 +16,10 @@ This project was developed as a full-cycle QA exercise, simulating a real-world 
 ---
 
 ## 🗂️ Project Structure
-├── Manual/          # Manual test cases and test scenarios
-├── APIs/            # API test cases and collections
-├── Database/        # SQL queries for Sakila DB validation
-└── Our test Plan - Group1.docx  
+- ├── Manual/          # Manual test cases and test scenarios
+- ├── APIs/            # API test cases and collections
+- ├── Database/        # SQL queries for Sakila DB validation
+- └── Our test Plan - Group1.docx  
 
 ---
 
