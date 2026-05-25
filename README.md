@@ -76,11 +76,11 @@ The full test plan is available in the repository: [Our test Plan](./Our%20test%
 ## 👥 Team
 
 Our QA team collaboratively developed this project as part of a structured testing exercise:
-Heba allah Mostafa Ali
-Nada Khaled Mohamed
-Mohammed Ahmed Fathy Elsayed
-Youssef Nohad Abdelkader Aboali
-Omar Mohamed Hassen Mahmoud 
+1. Heba allah Mostafa Ali
+2. Nada Khaled Mohamed
+3. Mohammed Ahmed Fathy Elsayed
+4. Youssef Nohad Abdelkader Aboali
+5. Omar Mohamed Hassen Mahmoud 
 ---
 
 ## 📬 Contact
