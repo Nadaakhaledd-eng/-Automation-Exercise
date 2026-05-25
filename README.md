@@ -69,7 +69,7 @@ This project was developed as a full-cycle QA exercise, simulating a real-world 
 
 ## 📄 Test Plan
 
-The full test plan is available in the repository: [Our test Plan](./Our%20test%20Plan%20-%20Group1.docx)
+The full test plan is available in the repository: [Our test Plan](https://docs.google.com/document/d/1Dmr_OaS62mfYnGdCF3U79gPYSfaEtAkv/edit?usp=sharing&ouid=115745094453477098897&rtpof=true&sd=true)
 
 ---
 
