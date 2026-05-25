@@ -65,7 +65,6 @@ This project was developed as a full-cycle QA exercise, simulating a real-world 
 ### 🗄️ Database Testing (Sakila DB)
 - SQL queries to validate data at the database layer
 - Covered SELECT, JOIN, aggregation, and filter scenarios
-- Test Cases https://1drv.ms/x/c/6e2005c4fa76e9e4/IQBZSw-_yRcKRIQah4Ji_X9HASUgDAUvctsCOpLrMHf8wmo?e=BBMgsK
 ---
 
 ## 📄 Test Plan
