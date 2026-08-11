@@ -76,7 +76,7 @@ The full test plan is available in the repository: [Our test Plan](https://docs.
 ## 👥 Team
 
 Our QA team collaboratively developed this project as part of a structured testing exercise:
-1. Heba allah Mostafa Ali
+1. [Heba allah Mostafa Ali](https://www.linkedin.com/in/heba-mostafa-2512000/)
 2. Nada Khaled Mohamed
 3. Mohammed Ahmed Fathy Elsayed
 4. Youssef Nohad Abdelkader Aboali
